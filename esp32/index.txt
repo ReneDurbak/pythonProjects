@@ -1,0 +1,1 @@
+esp32 projects done in Thonny(python IDE)
